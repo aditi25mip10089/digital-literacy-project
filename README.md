@@ -84,7 +84,7 @@ Researched **Phishing** as the chosen cybercrime type. Wrote a 200–250 word ca
 | GitHub Profile | [github.com/Aditi Sharma 25MIP10089-beep](https://github.com/aditi25mip10089/digital-literacy-project) |
 | LinkedIn Profile | (https://www.linkedin.com/in/aditi-sharma-4854193bb/) |
 | Kaggle Profile | (https://www.kaggle.com/aditisharma10089) |
-| Digital Literacy Quiz (Google Form) | (https://www.kaggle.com/shrinathkrishnan) |
+| Digital Literacy Quiz (Google Form) | (https://docs.google.com/forms/d/16hDSI5aFo9mwqZ4uMo8ic37K25AiADEf6fFmLi4mSMg/edit) |
 | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
