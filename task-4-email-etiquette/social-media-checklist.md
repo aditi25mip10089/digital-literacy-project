@@ -25,7 +25,7 @@ This document provides a robust framework for managing your digital footprint as
 ## 2. Platform-Specific Strategy
 
 ### LinkedIn: The Professional Hub
-- [ ] **Headline Optimization:** Use a keyword-rich headline (e.g., "Electronics & Communication Engineering Student | Aspiring VLSI Designer").
+- [ ] **Headline Optimization:** Use a keyword-rich headline (e.g., "Data Science and Computational | Aspiring buisness analyst ").
 - [ ] **Skill Endorsements:** Request endorsements from peers for specific technical skills like Python, Circuit Design, or Technical Writing.
 - [ ] **Featured Section:** Attach PDFs of your best academic papers or links to your GitHub repositories.
 - [ ] **Connection Etiquette:** Always include a personalized note when sending a connection request to a professional you haven't met.
